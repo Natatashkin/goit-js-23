@@ -1,1 +1,1 @@
-# goit-js-23
+# goit-js-hw-08-gallery
