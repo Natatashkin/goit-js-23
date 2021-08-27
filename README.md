@@ -1,1 +1,1 @@
-# goit-js-hw-08-gallery-parcel
+# goit-js-hw-11-color-switch
