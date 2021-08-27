@@ -1,1 +1,1 @@
-# goit-js-hw-23
+# goit-js-hw-11-timer
